@@ -1,1 +1,1 @@
-![Alt text](/main/Screenshot.png?raw=true)
+![Alt text](/Screenshot.png?raw=true)
